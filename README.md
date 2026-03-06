@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ndzumaxx
+- 👋 Hi, I’m @ndzuma
 - 👀 I’m interested in Python, Machine learning and building all aroung cool programs.
 - 🌱 I’m currently learning Machine learning in python and Django.
 - 💞️ I’m looking to collaborate on awesome challenging projects.
