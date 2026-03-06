@@ -197,24 +197,6 @@ HACKATHON : Microsoft University AI Hackathon — reached semi-finals
 
 ---
 
-<!-- GITHUB STATS -->
-<div align="center">
-
-### `> RUNTIME METRICS`
-
-<br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ndzuma&show_icons=true&theme=chartreuse-dark&bg_color=000000&title_color=39FF14&text_color=ffffff&icon_color=39FF14&border_color=39FF14&hide_border=false&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndzuma&layout=compact&theme=chartreuse-dark&bg_color=000000&title_color=39FF14&text_color=ffffff&border_color=39FF14&hide_border=false&langs_count=8"/>
-
-<br/>
-
-<img width="60%" src="https://streak-stats.demolab.com?user=ndzuma&theme=dark&background=000000&ring=39FF14&fire=FF6B00&currStreakLabel=39FF14&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=666666&border=39FF14"/>
-
-</div>
-
----
-
 <!-- WHAT I'M LOOKING FOR -->
 <div align="center">
 
