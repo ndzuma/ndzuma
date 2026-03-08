@@ -39,12 +39,19 @@ ROLE      : Software Engineer & ML Engineer (in the making)
 BASE      : London, United Kingdom
 MISSION   : Build software that impacts real people
             while touching new technology every single day
-INTERESTS : AI/ML Systems · Backend Architecture · Security Tooling
-            Desktop Apps · Hackathons · Open Source · Go (always more Go)
+INTERESTS : Full-stack engineering — end to end, soup to nuts
+            AI/ML — from training my own models to wiring up agents + vendor APIs
+            DX tooling — building tools that make developers' lives better
+            Web apps · Desktop apps · Anything that ships to real users
 CURRENTLY : [ pulsefolio.net  ] — multi-asset portfolio analytics platform
-            [ FYP             ] — desktop app built with Next.js + Tauri
+            [ FYP             ] — AI-powered accessibility desktop app (Next.js + Tauri)
+                                  voice-first tool for visually impaired professionals
+                                  local LLM via Ollama · email · Word · Excel · web
             [ probeTool       ] — AI-powered security scanner in Go + Next.js
-HACKATHON : Microsoft University AI Hackathon — reached semi-finals
+HACKATHON : 🥇 Kingston University Vibeathon — GOLD MEDAL WINNER
+            Built QueueQuest: crowd-sourced campus busyness tracker
+            React Native · Expo · Convex · Better Auth — 3.5 hrs · first mobile app ever
+            Microsoft University AI Hackathon — Semi-Finalist
             Built an AI study-buddy tool using Python + Azure in 24hrs
 ```
 
@@ -153,6 +160,30 @@ HACKATHON : Microsoft University AI Hackathon — reached semi-finals
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/ndzuma/vibeathon">🥇 QueueQuest</a>
+      </h3>
+      <p align="center">
+        <a href="https://github.com/ndzuma/vibeathon">
+          <img src="https://img.shields.io/badge/GOLD_MEDAL-KU_Vibeathon_2025-FFD700?style=for-the-badge&labelColor=000000" />
+        </a>
+      </p>
+      <p>
+        Crowd-sourced busyness tracker for Kingston University's Penryn Road campus.
+        Students report live crowd levels — Empty, Quiet, Busy, or Chaos — for spaces nearby.
+        Built and shipped in 3.5 hours. First mobile app ever written. Won Gold.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-000?style=flat-square&logo=react&logoColor=39FF14"/>
+        <img src="https://img.shields.io/badge/Expo-000?style=flat-square&logo=expo&logoColor=39FF14"/>
+        <img src="https://img.shields.io/badge/Convex-000?style=flat-square&logo=convex&logoColor=39FF14"/>
+        <img src="https://img.shields.io/badge/Better_Auth-000?style=flat-square&logo=jsonwebtokens&logoColor=39FF14"/>
+      </p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 ---
@@ -165,13 +196,12 @@ HACKATHON : Microsoft University AI Hackathon — reached semi-finals
 </div>
 
 ```
-ROLE_TYPE     : Software Engineer / ML Engineer
+ROLE_TYPE     : Software Engineer / AI Engineer / ML Engineer
 PREFERENCE    : Roles that ship real products to real people
-                New technology stack — always learning, never stagnating
-                Go in production would be a bonus — seriously
+                New technology — always learning, never stagnating
+                Greenfield problems, emerging stacks, hard domains
 OPEN_TO       : Graduate roles · Internships · Hackathon collabs
                 Open source contributions · Interesting side projects
-NOT_OPEN_TO   : CRUD apps in legacy codebases with no ambition
 AVAILABILITY  : London (on-site / hybrid) · Remote (anywhere)
 ```
 
