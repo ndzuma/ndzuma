@@ -153,46 +153,6 @@ HACKATHON : Microsoft University AI Hackathon — reached semi-finals
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎓 Final Year Project</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-FF6B00?style=for-the-badge&labelColor=000000" />
-      </p>
-      <p>
-        Desktop application built as my BSc CS & AI capstone.
-        Combining the reach of a web frontend with the power of a native binary —
-        shipped as a single installable app. Rust under the hood, TypeScript on top.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=39FF14"/>
-        <img src="https://img.shields.io/badge/Tauri-000?style=flat-square&logo=tauri&logoColor=39FF14"/>
-        <img src="https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=39FF14"/>
-        <img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=39FF14"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">
-        <a href="https://ndzumamalate.com/">🌐 ndzumamalate.com</a>
-      </h3>
-      <p align="center">
-        <a href="https://ndzumamalate.com/">
-          <img src="https://img.shields.io/badge/LIVE-%E2%86%92_ndzumamalate.com-39FF14?style=for-the-badge&labelColor=000000" />
-        </a>
-      </p>
-      <p>
-        Personal site — designed in Figma, built with Python + Reflex, and Go.
-        Deployed on Railway. The handmade kind: no template, no theme, no shortcuts.
-        Where everything else links back to.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=39FF14"/>
-        <img src="https://img.shields.io/badge/Reflex-000?style=flat-square&logo=python&logoColor=39FF14"/>
-        <img src="https://img.shields.io/badge/Go-000?style=flat-square&logo=go&logoColor=39FF14"/>
-        <img src="https://img.shields.io/badge/Railway-000?style=flat-square&logo=railway&logoColor=39FF14"/>
-      </p>
-    </td>
-  </tr>
 </table>
 
 ---
@@ -236,9 +196,5 @@ AVAILABILITY  : London (on-site / hybrid) · Remote (anywhere)
 > ping ndzuma
 RESPONSE: 200 OK — let's build something.
 ```
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:000000&height=120&section=footer" width="100%"/>
 
 </div>
